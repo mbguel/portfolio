@@ -2,7 +2,7 @@
 
 In these plots, we compared the proportion of made shots of the home and away team for the entire season. We used five seasons worth of data (2008-2012).
 
-![home_away 2008](./Home & Away - Made Shot %/Home_Away_Made_Shots_Pct_2008.png)
+![home_away 2008](./Home%20&%20Away%20-%20Made%20Shot%20%/Home_Away_Made_Shots_Pct_2008.png)
 2007-08
 ![home_away 2009](./Home & Away - Made Shot %/Home_Away_Made_Shots_Pct_2009.png)
 2008-09
