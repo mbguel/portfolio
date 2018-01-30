@@ -20,7 +20,7 @@ else
     d.performance = xlsread('NBA Season Stats (By Player).xlsx', 'Master 1', 'h2:am487');
     [~, d.performanceName] = xlsread('NBA Season Stats (By Player).xlsx', 'Master 1', 'h1:am1');
     
-    
+    [d.nPlayer, d.nPerformance] = size(d.performance); 
     save NBAPlayers2017 d
 end;
 
